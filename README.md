@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://media.tenor.com/V6h53M7c-xIAAAAC/nezuko-anime.gif" width="250" />
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/anime/anime.png" width="250" />
 </p>
 
 <p align="center">
