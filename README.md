@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3443,100:34e89e&height=200&section=header&text=Hi%20there,%20I'm%20Zainab!&fontSize=40&fontColor=ffffff&animation=twinkling" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=34e89e&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Zainab+Ahmad!;Turning+ideas+into+code.;Always+learning%2C+always+building." align="center"/>
 
 ## 👋 Welcome to my GitHub!
 
