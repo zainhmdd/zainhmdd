@@ -1,39 +1,36 @@
-<!-- HEADER -->
-<h1 align="center">
-  Hey there, I'm <a href="https://github.com/zainhmdd" target="_blank">Zain Abahmad</a> 👋
-</h1>
+<h1 align="center">Hi, I'm <span style="color:#00bfff;">Zainab Ahmad</span> 👋</h1>
+
 <p align="center">
-  <em>Turning ideas into code. <br> Always learning, always building. <br> Lover of open source & elegant solutions.</em>
+  <em>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=800&color=00bfff&center=true&width=450&lines=Fullstack+Web+Developer;Machine+Learning+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
+  </em>
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding animation" style="border-radius: 12px;" />
 </p>
 
 ---
 
-<!-- GIF or Animated Avatar -->
-<p align="center">
-  <img src="https://c.tenor.com/3_vO7oSJ-D4AAAAC/coding.gif" alt="coding" width="250"/>
-</p>
+### 👩‍🎓 About Me
+
+- Informatics student at **Universitas Darussalam Gontor**  
+- Focused on **Web Development** & **Machine Learning**  
+- Building elegant solutions with **PHP, Python, PyTorch**  
+- Currently learning **Deep Learning** & **Laravel**  
+- 📬 Reach me at: [zainabahmad10@student.cs.unida.gontor.ac.id](mailto:zainabahmad10@student.cs.unida.gontor.ac.id)  
 
 ---
 
-### 🚀 About Me
-- 🎓 **CS Student** @ Universitas Darussalam Gontor  
-- 🔭 Currently working on: **Deep Learning & Computer Vision** projects  
-- 🌱 Always exploring: **PyTorch, AI/ML, React**  
-- 💬 Ask me about: Python, JS, OOP, ML algorithms  
-- ⚡ Fun fact: I turn ☕️ into code!
-
----
-
-### 🛠️ My Tech Stack
+### 🛠️ Tech Stack
 
 <p align="center">
-  <img alt="Python" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  <img alt="PyTorch" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" />
-  <img alt="JavaScript" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img alt="React" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-  <img alt="Node.js" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-  <img alt="Docker" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
-  <img alt="Git" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
 ---
@@ -41,45 +38,34 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zainhmdd&show_icons=true&theme=dracula&count_private=true&hide=contribs,prs" alt="Zain's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=zainhmdd&show_icons=true&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zainhmdd&theme=radical&hide_border=true" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zainhmdd&layout=compact&theme=radical&hide_border=true" width="48%" />
 </p>
 
 ---
 
-### 🌟 Top Languages
+### 🚀 Pinned Projects
+
+- [iris-classification](https://github.com/zainhmdd/iris-classification) — PyTorch MLP model for Iris Dataset  
+- [Face-mask-classification](https://github.com/zainhmdd/Face-mask-classification) — VGG16-based image classifier  
+- [web-travel](https://github.com/zainhmdd/web-travel) — PHP Travel Website Project  
+
+---
+
+### 📫 Connect With Me
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zainhmdd&layout=compact&theme=dracula" alt="Top languages" />
+  <a href="mailto:zainabahmad10@student.cs.unida.gontor.ac.id"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://github.com/zainhmdd"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://instagram.com/zainhmdd_"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
 </p>
 
 ---
 
-### 📂 Featured Repositories
-
-| Repository | Description | Language | Stars |
-|------------|-------------|----------|-------|
-| [iris-classification](https://github.com/zainhmdd/iris-classification) | MLP & Logistic Regression Iris Dataset | Python | ⭐ 50 |
-| [Face-mask-classification](https://github.com/zainhmdd/Face-mask-classification) | Detecting mask wearing with DL | Python | ⭐ 75 |
-| [web-travel](https://github.com/zainhmdd/web-travel) | Responsive travel website project | JavaScript | ⭐ 30 |
-
----
-
-### 📫 Let's Connect
-
-<p align="center">
-  <a href="mailto:zainabahmad10@student.cs.unida.gontor.ac.id" target="_blank">
-    <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://linkedin.com/in/zainhmdd" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/zainhmdd" target="_blank">
-    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
-
----
-
-<p align="center">
-  <em>Thanks for stopping by! 🚀 Let's build the future together.</em>
+<p align="center" style="font-size:0.9rem; color:#555;">
+  Crafted with ❤️ using Markdown by <b>Zainab Ahmad</b>
 </p>
