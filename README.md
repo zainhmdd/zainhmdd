@@ -7,22 +7,22 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding animation" style="border-radius: 12px;" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding animation" style="border-radius: 12px;"/>
 </p>
 
 ---
 
-### 👩‍🎓 About Me
+## 🚀 About Me
 
-- Informatics student at **Universitas Darussalam Gontor**  
-- Focused on **Web Development** & **Machine Learning**  
-- Building elegant solutions with **PHP, Python, PyTorch**  
-- Currently learning **Deep Learning** & **Laravel**  
-- 📬 Reach me at: [zainabahmad10@student.cs.unida.gontor.ac.id](mailto:zainabahmad10@student.cs.unida.gontor.ac.id)  
+I'm an **Informatics student** at **Universitas Darussalam Gontor**, driven by a passion for creating impactful digital solutions. My journey primarily revolves around **Web Development** and delving into the exciting world of **Machine Learning**.
+
+Currently, I'm expanding my horizons by diving deep into **Deep Learning** and mastering the **Laravel** framework to build more robust and scalable applications. I enjoy crafting elegant code and contributing to the open-source community.
+
+Feel free to reach out to me at: 📬 [zainabahmad10@student.cs.unida.gontor.ac.id](mailto:zainabahmad10@student.cs.unida.gontor.ac.id)
 
 ---
 
-### 🛠️ Tech Stack
+## 💻 Tech Stack
 
 I love bringing ideas to life using a diverse set of tools and technologies. Here's what I'm currently working with:
 
@@ -48,39 +48,41 @@ I love bringing ideas to life using a diverse set of tools and technologies. Her
 
 ---
 
----
-
-### 📊 GitHub Stats
+## 📊 My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zainhmdd&show_icons=true&theme=radical&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zainhmdd&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=zainhmdd&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%" alt="Zainab's GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zainhmdd&theme=radical&hide_border=true" width="48%" alt="Zainab's GitHub Streak"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zainhmdd&layout=compact&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zainhmdd&layout=compact&theme=radical&hide_border=true" width="48%" alt="Zainab's Top Languages"/>
 </p>
 
 ---
 
-### 🚀 Pinned Projects
+## 🌟 Pinned Projects
 
-- [iris-classification](https://github.com/zainhmdd/iris-classification) — PyTorch MLP model for Iris Dataset  
-- [Face-mask-classification](https://github.com/zainhmdd/Face-mask-classification) — VGG16-based image classifier  
-- [web-travel](https://github.com/zainhmdd/web-travel) — PHP Travel Website Project  
+Check out some of my highlighted projects:
+
+-   [**iris-classification**](https://github.com/zainhmdd/iris-classification) — A PyTorch MLP model for classifying the Iris Dataset. A great example of my machine learning fundamentals!
+-   [**Face-mask-classification**](https://github.com/zainhmdd/Face-mask-classification) — An image classifier built using VGG16, demonstrating my skills in computer vision and deep learning.
+-   [**web-travel**](https://github.com/zainhmdd/web-travel) — A full-fledged PHP Travel Website Project. This showcases my fullstack web development capabilities.
 
 ---
 
-### 📫 Connect With Me
+## 👋 Let's Connect!
+
+I'm always open to new opportunities, collaborations, and discussions. Feel free to connect with me on these platforms:
 
 <p align="center">
   <a href="mailto:zainabahmad10@student.cs.unida.gontor.ac.id"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://github.com/zainhmdd"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
   <a href="https://instagram.com/zainhmdd_"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
-</p>
+  </p>
 
 ---
 
 <p align="center" style="font-size:0.9rem; color:#555;">
-  Crafted with ❤️ using Markdown by <b>Zainab Ahmad</b>
+  Crafted with ❤️ by <b>Zainab Ahmad</b>
 </p>
