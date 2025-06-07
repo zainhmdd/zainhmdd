@@ -1,6 +1,8 @@
 <!-- README with Animations -->
 
-<h1 align="center">Hi, I'm <span style="color:#00bfff;">Zainab Ahmad</span> 👋</h1>
+<h1 align="center">
+  Hi, I'm <span style="color:#00bfff;">Zainab Ahmad</span> 👋
+</h1>
 
 <p align="center">
   <em>
@@ -9,7 +11,8 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding animation" style="border-radius: 12px;" />
+  <!-- Ganti gambar banner dengan coding animation yang beda -->
+  <img src="https://media.giphy.com/media/3o7aD4gDaI0dG5qwXW/giphy.gif" width="320" alt="Coding animation" style="border-radius: 14px; box-shadow: 0 0 15px #00bfff;" />
 </p>
 
 ---
@@ -52,9 +55,45 @@
 
 ### 🚀 Pinned Projects
 
-- [iris-classification](https://github.com/zainhmdd/iris-classification) — PyTorch MLP model for Iris Dataset  
-- [Face-mask-classification](https://github.com/zainhmdd/Face-mask-classification) — VGG16-based image classifier  
-- [web-travel](https://github.com/zainhmdd/web-travel) — PHP Travel Website Project  
+<div align="center">
+
+<table cellpadding="12" cellspacing="0" style="max-width: 700px; width: 100%; border-spacing: 15px; border-collapse: separate;">
+<tr>
+
+<td align="center" valign="top" style="background:#0d1117; border-radius: 14px; box-shadow: 0 0 10px #00bfff; width: 33%;">
+  <a href="https://github.com/zainhmdd/iris-classification" target="_blank">
+    <img src="https://media.giphy.com/media/3o7aD5tv1ogNBtDhDi/giphy.gif" alt="Iris Classification" width="120" style="border-radius: 12px;"/>
+  </a>
+  <br />
+  <strong style="color:#00bfff;">Iris Classification</strong><br />
+  PyTorch MLP model for Iris Dataset<br />
+  <small style="color:#888;">Clean, modular deep learning implementation</small>
+</td>
+
+<td align="center" valign="top" style="background:#0d1117; border-radius: 14px; box-shadow: 0 0 10px #00bfff; width: 33%;">
+  <a href="https://github.com/zainhmdd/Face-mask-classification" target="_blank">
+    <img src="https://media.giphy.com/media/fsyc9SjpVZpzP8Qo0K/giphy.gif" alt="Face Mask Classification" width="120" style="border-radius: 12px;"/>
+  </a>
+  <br />
+  <strong style="color:#00bfff;">Face-mask-classification</strong><br />
+  VGG16-based image classifier<br />
+  <small style="color:#888;">Accurate mask detection model</small>
+</td>
+
+<td align="center" valign="top" style="background:#0d1117; border-radius: 14px; box-shadow: 0 0 10px #00bfff; width: 33%;">
+  <a href="https://github.com/zainhmdd/web-travel" target="_blank">
+    <img src="https://media.giphy.com/media/3o7aD5tv1ogNBtDhDi/giphy.gif" alt="Web Travel" width="120" style="border-radius: 12px;"/>
+  </a>
+  <br />
+  <strong style="color:#00bfff;">Web Travel</strong><br />
+  PHP travel website project<br />
+  <small style="color:#888;">Dynamic & responsive with smooth UX</small>
+</td>
+
+</tr>
+</table>
+
+</div>
 
 ---
 
