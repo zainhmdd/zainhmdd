@@ -1,21 +1,26 @@
-<!-- Simple, Clean & Modern README -->
+<!-- README with Animations -->
 
 <h1 align="center">Hi, I'm <span style="color:#00bfff;">Zainab Ahmad</span> 👋</h1>
-<p align="center"><em>Turning ideas into code. Always learning. Always building.</em></p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=800&color=00bfff&center=true&width=450&lines=Fullstack+Web+Developer;Machine+Learning+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
+  <em>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=800&color=00bfff&center=true&width=450&lines=Fullstack+Web+Developer;Machine+Learning+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
+  </em>
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding animation" style="border-radius: 12px;" />
 </p>
 
 ---
 
 ### 👩‍🎓 About Me
 
-- Informatics student at **Universitas Darussalam Gontor**
-- Focused on **Web Development** and **Machine Learning**
-- Building elegant solutions with **PHP, Python, PyTorch**
-- Currently learning **Deep Learning** & **Laravel**
-- 📬 Reach me at: [zainabahmad10@student.cs.unida.gontor.ac.id](mailto:zainabahmad10@student.cs.unida.gontor.ac.id)
+- Informatics student at **Universitas Darussalam Gontor**  
+- Focused on **Web Development** & **Machine Learning**  
+- Building elegant solutions with **PHP, Python, PyTorch**  
+- Currently learning **Deep Learning** & **Laravel**  
+- 📬 Reach me at: [zainabahmad10@student.cs.unida.gontor.ac.id](mailto:zainabahmad10@student.cs.unida.gontor.ac.id)  
 
 ---
 
