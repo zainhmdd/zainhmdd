@@ -1,73 +1,58 @@
-<!-- README with Animations -->
+# Hi there 👋, I'm Zain Abahmad
 
-<h1 align="center">Hi, I'm <span style="color:#00bfff;">Zainab Ahmad</span> 👋</h1>
+## Turning ideas into code. Always learning, always building.
 
-<p align="center">
-  <em>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=800&color=00bfff&center=true&width=450&lines=Fullstack+Web+Developer;Machine+Learning+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
-  </em>
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding animation" style="border-radius: 12px;" />
-</p>
+![Profile Banner](https://github.com/zainhmdd/zainhmdd/raw/main/banner.png)
 
 ---
 
-### 👩‍🎓 About Me
-
-- Informatics student at **Universitas Darussalam Gontor**  
-- Focused on **Web Development** & **Machine Learning**  
-- Building elegant solutions with **PHP, Python, PyTorch**  
-- Currently learning **Deep Learning** & **Laravel**  
-- 📬 Reach me at: [zainabahmad10@student.cs.unida.gontor.ac.id](mailto:zainabahmad10@student.cs.unida.gontor.ac.id)  
-
----
-
-### 🛠️ Tech Stack
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-</p>
+### 🚀 About Me
+- 🎓 Computer Science student at **Universitas Darussalam Gontor**
+- 💻 Passionate about **Open Source**, clean code, and elegant solutions
+- 🔍 Focused on **Machine Learning**, **Deep Learning**, and **Web Development**
+- 🌱 Currently exploring **PyTorch**, **Computer Vision**, and **AI-powered apps**
+- ⚡ Fun fact: I love turning complex problems into simple code snippets!
 
 ---
 
-### 📊 GitHub Stats
+### 🔧 Technologies & Tools
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zainhmdd&show_icons=true&theme=radical&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zainhmdd&theme=radical&hide_border=true" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zainhmdd&layout=compact&theme=radical&hide_border=true" width="48%" />
-</p>
+| Frontend           | Backend           | ML & Data Science       | DevOps & Others       |
+|--------------------|-------------------|------------------------|----------------------|
+| React, HTML, CSS   | Node.js, Flask    | PyTorch, Scikit-learn  | Docker, Git, Linux   |
+| JavaScript, TypeScript | Java, Python     | Pandas, NumPy          | VS Code, GitHub Actions |
+| Bootstrap, Tailwind| REST API, FastAPI | Matplotlib, Seaborn    | Google Colab, Jupyter |
 
 ---
 
-### 🚀 Pinned Projects
+### 📈 GitHub Stats
 
-- [iris-classification](https://github.com/zainhmdd/iris-classification) — PyTorch MLP model for Iris Dataset  
-- [Face-mask-classification](https://github.com/zainhmdd/Face-mask-classification) — VGG16-based image classifier  
-- [web-travel](https://github.com/zainhmdd/web-travel) — PHP Travel Website Project  
+[![Zain's GitHub stats](https://github-readme-stats.vercel.app/api?username=zainhmdd&show_icons=true&theme=radical)](https://github.com/zainhmdd)
 
 ---
 
-### 📫 Connect With Me
+### 🏆 Popular Repositories
 
-<p align="center">
-  <a href="mailto:zainabahmad10@student.cs.unida.gontor.ac.id"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://github.com/zainhmdd"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-  <a href="https://instagram.com/zainhmdd_"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
-</p>
+| Repo Name                  | Description                                 | Stars | Language  |
+|---------------------------|---------------------------------------------|-------|-----------|
+| [iris-classification](https://github.com/zainhmdd/iris-classification) | MLP & Logistic Regression for Iris Dataset | ⭐️ 50  | Python    |
+| [Face-mask-classification](https://github.com/zainhmdd/Face-mask-classification) | Deep Learning to detect mask wearing        | ⭐️ 75  | Python    |
+| [web-travel](https://github.com/zainhmdd/web-travel)                   | Responsive travel website project            | ⭐️ 30  | JavaScript|
 
 ---
 
-<p align="center" style="font-size:0.9rem; color:#555;">
-  Crafted with ❤️ using Markdown by <b>Zainab Ahmad</b>
-</p>
+### 📫 How to reach me
+
+- 📧 Email: [zainabahmad10@student.cs.unida.gontor.ac.id](mailto:zainabahmad10@student.cs.unida.gontor.ac.id)
+- 💼 LinkedIn: [linkedin.com/in/zainhmdd](https://linkedin.com/in/zainhmdd)
+- 🌐 Portfolio: [zainhmdd.dev](https://zainhmdd.dev) *(optional, if kamu punya)*
+
+---
+
+### ⚡ Fun GitHub Activity
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zainhmdd&layout=compact&theme=radical)
+
+---
+
+Thanks for visiting my profile! Let’s connect and build something awesome 🚀
