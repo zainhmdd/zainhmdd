@@ -1,58 +1,61 @@
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=34e89e&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Zainab+Ahmad!;Turning+ideas+into+code.;Always+learning%2C+always+building." align="center"/>
-
-## 👋 Welcome to my GitHub!
-
-🏫 I’m currently studying at **Universitas Darussalam Gontor**  
-💻 Currently learning **Computer Vision & PyTorch**  
-🤝 Looking to collaborate on **Machine Learning & Web Development**  
-📬 Email me: zainabahmad10@student.cs.unida.gontor.ac.id
+<!-- Banner Header -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=34e89e&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Zainab+Ahmad!;Turning+ideas+into+code.;Always+learning%2C+always+building." alt="Typing SVG" />
+</p>
 
 ---
 
-### 🛠️ Languages and Tools
+### 👩‍💻 About Me
 
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
-![Jupyter](https://img.shields.io/badge/-Jupyter-05122A?style=flat&logo=jupyter)
-![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php)
-![HTML](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=html5)
-![CSS](https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=css3)
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
-![VS Code](https://img.shields.io/badge/-VS%20Code-05122A?style=flat&logo=visualstudiocode)
-![Google Colab](https://img.shields.io/badge/-Google%20Colab-05122A?style=flat&logo=googlecolab)
+🎓 Student at **Universitas Darussalam Gontor**  
+💡 Passionate in **Machine Learning** and **Web Development**  
+🛠️ Currently learning **Computer Vision with PyTorch**  
+📬 Email: [zainabahmad10@student.cs.unida.gontor.ac.id](mailto:zainabahmad10@student.cs.unida.gontor.ac.id)  
+🌐 Portfolio (Coming Soon)
+
+---
+
+### ⚒️ Languages & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,jupyter,php,html,css,js,git,vscode,figma,laravel,colab" />
+</p>
 
 ---
 
 ### 📊 GitHub Stats
 
-![Zainab's GitHub Stats](https://github-readme-stats.vercel.app/api?username=zainhmdd&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zainhmdd&layout=compact&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=zainhmdd&show_icons=true&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zainhmdd&layout=compact&theme=tokyonight" height="170"/>
+</p>
 
 ---
 
 ### 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=zainhmdd&theme=monokai)](https://github.com/zainhmdd)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=zainhmdd&theme=monokai&no-frame=true&no-bg=true&margin-w=10" />
+</p>
 
 ---
 
-### 🔝 Featured Projects
+### 📌 Featured Projects
 
-- [🧠 iris-classification](https://github.com/zainhmdd/iris-classification)  
-  Multilayer Perceptron on Iris Dataset with PyTorch
-
-- [😷 Face-mask-classification](https://github.com/zainhmdd/Face-mask-classification)  
-  CNN model using VGG16 to detect face masks
-
-- [🌍 web-travel](https://github.com/zainhmdd/web-travel)  
-  A PHP-based web travel system for user booking and exploration
+- [`iris-classification`](https://github.com/zainhmdd/iris-classification): MLP model for classifying Iris flowers 🌸  
+- [`Face-mask-classification`](https://github.com/zainhmdd/Face-mask-classification): CNN + VGG16 for face mask detection 😷  
+- [`web-travel`](https://github.com/zainhmdd/web-travel): Simple travel booking site using PHP ✈️
 
 ---
 
-### 🐍 Snake Contribution Animation
+### 🐍 Contribution Snake
 
-![snake gif](https://github.com/zainhmdd/zainhmdd/blob/output/github-contribution-grid-snake.svg)
+<p align="center">
+  <img src="https://github.com/zainhmdd/zainhmdd/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
 
 ---
 
-> 🚀 "Turning ideas into code. Always learning, always building. Lover of open source and elegant solutions."
+### 💬 Quote
 
+> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
