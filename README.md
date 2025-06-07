@@ -1,58 +1,85 @@
-# Hi there 👋, I'm Zain Abahmad
+<!-- HEADER -->
+<h1 align="center">
+  Hey there, I'm <a href="https://github.com/zainhmdd" target="_blank">Zain Abahmad</a> 👋
+</h1>
+<p align="center">
+  <em>Turning ideas into code. <br> Always learning, always building. <br> Lover of open source & elegant solutions.</em>
+</p>
 
-## Turning ideas into code. Always learning, always building.
+---
 
-![Profile Banner](https://github.com/zainhmdd/zainhmdd/raw/main/banner.png)
+<!-- GIF or Animated Avatar -->
+<p align="center">
+  <img src="https://c.tenor.com/3_vO7oSJ-D4AAAAC/coding.gif" alt="coding" width="250"/>
+</p>
 
 ---
 
 ### 🚀 About Me
-- 🎓 Computer Science student at **Universitas Darussalam Gontor**
-- 💻 Passionate about **Open Source**, clean code, and elegant solutions
-- 🔍 Focused on **Machine Learning**, **Deep Learning**, and **Web Development**
-- 🌱 Currently exploring **PyTorch**, **Computer Vision**, and **AI-powered apps**
-- ⚡ Fun fact: I love turning complex problems into simple code snippets!
+- 🎓 **CS Student** @ Universitas Darussalam Gontor  
+- 🔭 Currently working on: **Deep Learning & Computer Vision** projects  
+- 🌱 Always exploring: **PyTorch, AI/ML, React**  
+- 💬 Ask me about: Python, JS, OOP, ML algorithms  
+- ⚡ Fun fact: I turn ☕️ into code!
 
 ---
 
-### 🔧 Technologies & Tools
+### 🛠️ My Tech Stack
 
-| Frontend           | Backend           | ML & Data Science       | DevOps & Others       |
-|--------------------|-------------------|------------------------|----------------------|
-| React, HTML, CSS   | Node.js, Flask    | PyTorch, Scikit-learn  | Docker, Git, Linux   |
-| JavaScript, TypeScript | Java, Python     | Pandas, NumPy          | VS Code, GitHub Actions |
-| Bootstrap, Tailwind| REST API, FastAPI | Matplotlib, Seaborn    | Google Colab, Jupyter |
-
----
-
-### 📈 GitHub Stats
-
-[![Zain's GitHub stats](https://github-readme-stats.vercel.app/api?username=zainhmdd&show_icons=true&theme=radical)](https://github.com/zainhmdd)
+<p align="center">
+  <img alt="Python" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <img alt="PyTorch" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" />
+  <img alt="JavaScript" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img alt="React" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  <img alt="Node.js" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+  <img alt="Docker" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+  <img alt="Git" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+</p>
 
 ---
 
-### 🏆 Popular Repositories
+### 📊 GitHub Stats
 
-| Repo Name                  | Description                                 | Stars | Language  |
-|---------------------------|---------------------------------------------|-------|-----------|
-| [iris-classification](https://github.com/zainhmdd/iris-classification) | MLP & Logistic Regression for Iris Dataset | ⭐️ 50  | Python    |
-| [Face-mask-classification](https://github.com/zainhmdd/Face-mask-classification) | Deep Learning to detect mask wearing        | ⭐️ 75  | Python    |
-| [web-travel](https://github.com/zainhmdd/web-travel)                   | Responsive travel website project            | ⭐️ 30  | JavaScript|
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=zainhmdd&show_icons=true&theme=dracula&count_private=true&hide=contribs,prs" alt="Zain's GitHub Stats" />
+</p>
 
 ---
 
-### 📫 How to reach me
+### 🌟 Top Languages
 
-- 📧 Email: [zainabahmad10@student.cs.unida.gontor.ac.id](mailto:zainabahmad10@student.cs.unida.gontor.ac.id)
-- 💼 LinkedIn: [linkedin.com/in/zainhmdd](https://linkedin.com/in/zainhmdd)
-- 🌐 Portfolio: [zainhmdd.dev](https://zainhmdd.dev) *(optional, if kamu punya)*
-
----
-
-### ⚡ Fun GitHub Activity
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zainhmdd&layout=compact&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zainhmdd&layout=compact&theme=dracula" alt="Top languages" />
+</p>
 
 ---
 
-Thanks for visiting my profile! Let’s connect and build something awesome 🚀
+### 📂 Featured Repositories
+
+| Repository | Description | Language | Stars |
+|------------|-------------|----------|-------|
+| [iris-classification](https://github.com/zainhmdd/iris-classification) | MLP & Logistic Regression Iris Dataset | Python | ⭐ 50 |
+| [Face-mask-classification](https://github.com/zainhmdd/Face-mask-classification) | Detecting mask wearing with DL | Python | ⭐ 75 |
+| [web-travel](https://github.com/zainhmdd/web-travel) | Responsive travel website project | JavaScript | ⭐ 30 |
+
+---
+
+### 📫 Let's Connect
+
+<p align="center">
+  <a href="mailto:zainabahmad10@student.cs.unida.gontor.ac.id" target="_blank">
+    <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/zainhmdd" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/zainhmdd" target="_blank">
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <em>Thanks for stopping by! 🚀 Let's build the future together.</em>
+</p>
